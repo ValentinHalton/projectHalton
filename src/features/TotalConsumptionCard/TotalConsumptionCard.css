@@ -1,0 +1,12 @@
+.wrapper_Total{
+    margin: 1%;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+    padding: 1rem;
+    width: 50%;
+    height: auto;
+    
+}
+.total_consumption{
+    color: blue;
+}
